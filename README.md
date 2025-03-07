@@ -1,7 +1,6 @@
 ## Consulat Web Application
 
-Ce projet a été développé dans le cadre d'un devoir universitaire. L'objectif était de créer une application web en réponse aux besoins d'un client fictif. Le projet se concentre sur la gestion de certains services d'un consulat, dans une interface simple et fonctionnelle.
-Contexte
+Ce projet a été développé dans le cadre d'un devoir universitaire. L'objectif était de créer une application web en réponse aux besoins d'un client fictif.
 
 Le but principal de ce projet était de répondre aux exigences spécifiques d'un client, en développant une plateforme qui facilite les services d'un consulat, tout en offrant une interface claire et intuitive pour les utilisateurs.
 Fonctionnalités principales :
